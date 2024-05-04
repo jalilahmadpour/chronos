@@ -13,7 +13,8 @@ I have used this model to forecast iran stock exchange index
 
 
 
-Here ![download](https://github.com/jalilahmadpour/chronos/assets/28215799/27bc6cfd-a009-448f-98f9-7802c8724993)
+Here output for TEPIX:
+![download](https://github.com/jalilahmadpour/chronos/assets/28215799/27bc6cfd-a009-448f-98f9-7802c8724993)
 
 
 I have included jupyter notebook and indexes csv data.
